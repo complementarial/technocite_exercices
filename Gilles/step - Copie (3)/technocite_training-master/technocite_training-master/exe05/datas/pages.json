@@ -1,0 +1,17 @@
+{
+    "pages": [{
+        "url": "/",
+        "layout": "main",
+        "template": "home",
+        "meta": {
+            "title": "home page de fou"
+        }
+    }, {
+        "url": "/about",
+        "layout": "main",
+        "template": "about",
+        "meta": {
+            "title": "about page de fou"
+        }
+    }]
+}

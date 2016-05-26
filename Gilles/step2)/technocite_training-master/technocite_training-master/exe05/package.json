@@ -1,0 +1,14 @@
+{
+  "name": "server_v01",
+  "version": "0.0.1",
+  "description": "Website framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TCDP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

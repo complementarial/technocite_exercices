@@ -1,0 +1,21 @@
+{
+	"pages":[
+	{
+			"url":"/"
+			"layout":"main",
+			"template":"home",
+			"meta":{
+				"title":"home page de fou"
+			}
+		},
+		
+		{
+			"url":"/about"
+			"layout":"main",
+			"template":"home",
+			"meta":{
+				"title":"home page de fou"
+			}
+		}
+	]
+}
